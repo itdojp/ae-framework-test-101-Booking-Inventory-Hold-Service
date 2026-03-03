@@ -1,0 +1,16 @@
+# Common outputs (must not be committed in input-only spec repo)
+.ae/
+artifacts/
+reports/
+coverage/
+dist/
+node_modules/
+.pnpm-store/
+.tmp/
+tmp/
+.cache/
+.tools/
+.DS_Store
+*.log
+.vscode/
+.idea/
